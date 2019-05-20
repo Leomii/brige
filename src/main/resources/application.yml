@@ -1,0 +1,2 @@
+server.contextPath: /auto-loan
+server.port: 8080
