@@ -26,7 +26,7 @@ return buyBack.buyBack(applyId);
 
 缺点：
 - 通过 beanId 命名编排，决定调用逻辑
-- 增加代码难度，需添加注意解释此模式
+- 增加代码难度，需添加注释解释此模式
 
 代码结构：
 - controller：调用端，web入口
